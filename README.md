@@ -7,4 +7,5 @@
  Nextjs, TailwindCSS, Moralis Blockchain Platform, Solidity
 
 ### You can access the marketplace here:
+https://blorus-nft-marketplace.vercel.app/
 	
