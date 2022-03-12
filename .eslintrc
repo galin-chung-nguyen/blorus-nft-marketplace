@@ -2,6 +2,7 @@
 	"extends": "next",
 	"root": true,
 	"rules": {
-		"@next/next/no-img-element": "off"
+		"@next/next/no-img-element": "off",
+		"react/no-unescaped-entities": 0
 	}
 }
